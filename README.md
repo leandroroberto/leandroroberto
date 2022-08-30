@@ -1,6 +1,6 @@
 - 👋 Olá meu nome é Leandro Roberto
 - 👀 Estou interessado em sempre aprender mais e mais...
-- 🌱 Estou aprendendo front-end no momento.
+- 🌱 Estou aprendendo html, css e javascript no momento.
 
 
 <!---
