@@ -2,7 +2,7 @@
 
 ## Developer FrontEnd - Jr ( Javascript, html, css ) 🏡 São Paulo 🌎 Brasil
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=leandroroberto&theme=tokyonight_duo&background=#0d1117&currStreakNum=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=leandroroberto&theme=tokyonight_duo&background=#0d1117&currStreakNum=58a6ff&currStreakLabel=58a6ff&dates=2ea043)](https://git.io/streak-stats)
 
 <hr>
 
