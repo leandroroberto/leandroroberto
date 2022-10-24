@@ -1,6 +1,6 @@
 # Hello, 👋 I'm Leandro Roberto
 
-<h4 style="display: flex; justify-self: center">Developer FrontEnd - Jr ( Javascript, html, css ) 🏡 São Paulo 🌎 Brazil </h4>
+<h4 style="text-align:center">Developer FrontEnd - Jr ( Javascript, html, css ) 🏡 São Paulo 🌎 Brazil </h4>
 <hr>
 
 <h4> Studying at the moment </h4>
