@@ -6,7 +6,7 @@
 
 <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroroberto&bg_color=#0d1117&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroroberto&theme=material-palenight&show_icons=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
