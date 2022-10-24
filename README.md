@@ -8,7 +8,7 @@
 ## Ferramentas e Tecnologias
 <br>
 
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
 
 <hr>
 
