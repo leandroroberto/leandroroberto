@@ -1,4 +1,4 @@
-# Hello, I'm Leandro Roberto
+# Hello, 🙋‍♂️ I'm Leandro Roberto
 ## ☕ Developer FrontEnd - End jr ( Javascript, html, css ) 🏡 São Paulo 🌎 Brazil
 
 
