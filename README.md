@@ -1,6 +1,5 @@
-- 👋 Olá meu nome é Leandro Roberto
-- 👀 Estou interessado em sempre aprender mais e mais...
-- 🌱 Estou aprendendo html, css e javascript no momento.
+            Hello 👋 I'm Leandro Roberto
+☕ Developer FrontEnd - End jr ( Javascript, html, css ) 🏡 São Paulo 🌎 Brazil
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=leandroroberto)](https://git.io/streak-stats)
