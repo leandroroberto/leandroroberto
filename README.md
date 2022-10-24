@@ -6,7 +6,7 @@
 
 <hr>
 Techonology used:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/javascript-original.svg" width="40" height="40"/> <img 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/javas-original.svg" width="40" height="40"/> <img 
 
 <hr>
 
