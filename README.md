@@ -16,6 +16,6 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&&hide=GLSL&background=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&&hide=GLSL&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
 
