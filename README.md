@@ -5,8 +5,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=leandroroberto)](https://git.io/streak-stats)
 
 <hr>
-Techonology used:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/javas-original.svg" width="40" height="40"/> <img 
+## Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 <hr>
 
