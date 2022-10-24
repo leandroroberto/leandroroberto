@@ -1,6 +1,6 @@
-# Olá, 👋 Sou o Leandro Roberto
+# Hello, 👋 I'm Leandro Roberto
 
-## Developer FrontEnd - Jr ( Javascript, html, css ) 🏡 São Paulo 🌎 Brasil
+## Developer FrontEnd - Jr ( Javascript, html, css ) 🏡 São Paulo 🌎 Brazil
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=leandroroberto&theme=tokyonight_duo&background=#0d1117&currStreakNum=58a6ff&currStreakLabel=58a6ff&dates=2ea043)](https://git.io/streak-stats)
 
