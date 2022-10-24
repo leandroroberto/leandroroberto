@@ -1,4 +1,4 @@
-# Hello, 👋 I'm Leandro Roberto
+<h1 align="center">Hello, 👋 I'm Leandro Roberto</h1>
 
 <h4 align="center">Developer FrontEnd - Jr ( Javascript, html, css ) 🏡 São Paulo 🌎 Brazil </h4>
 <hr>
