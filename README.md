@@ -4,7 +4,7 @@
 <hr>
 
 <h4> Studying at the moment </h4>
-<a href="https://kotlinlang.org/"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-original.svg" width="40" height="40"/></a>&nbsp; <a href="https://developer.android.com/"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" width="40" height="40" margin-right="30"/></a>&nbsp; <a href="https://firebase.google.com/"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain.svg" width="40" height="40"/></a><a href="https://www.figma.com"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40"/></a><a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" width="40" height="40"/></a>&nbsp; <a href="https://reactnative.dev"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg" width="40" height="40" margin-right="30"/></a>&nbsp; <a href="https://firebase.google.com/"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain.svg" width="40" height="40"/></a><a href="https://www.figma.com"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40"/></a><a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
 <hr>
 <br>
 
