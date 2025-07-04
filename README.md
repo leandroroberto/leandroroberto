@@ -4,8 +4,8 @@
 
 <hr>
 
-<h4> Studying at the moment </h4>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" width="40" height="40"/></a>&nbsp; <a href="https://reactnative.dev"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg" width="40" height="40" margin-right="30"/></a>&nbsp; <a href="https://firebase.google.com/"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain.svg" width="40" height="40"/></a><a href="https://www.figma.com"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40"/></a><a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
+<h4> Stack </h4>
+<a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" width="40" height="40"/>
 <hr>
 <br>
 
