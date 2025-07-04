@@ -10,9 +10,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-  <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" width="40" height="40" alt="Selenium" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" width="40" height="40" alt="FastAPI" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" />
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40" height="40" alt="Jupyter" />
 </p>
 
