@@ -4,10 +4,17 @@
 
 <hr>
 
-<h4> Stack </h4>
-<a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" width="40" height="40"/>
-<hr>
-<br>
+<h3 align="center">🧠 Tech Stack</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+  <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" width="40" height="40" alt="Selenium" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" width="40" height="40" alt="FastAPI" />
+  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40" height="40" alt="Jupyter" />
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=leandroroberto&theme=tokyonight_duo&background=0d1117&currStreakNum=58a6ff&currStreakLabel=58a6ff&dates=2ea043)](https://git.io/streak-stats)
 
