@@ -1,6 +1,7 @@
 <h1 align="center">Hello, 👋 I'm Leandro Roberto</h1>
 
-<h4 align="center">Developer Mobile - Jr | React Native | Javascript | TypeScript 🏡 São Paulo 🌎 Brazil </h4>
+<h4 align="center">Desenvolvedor Python 🐍 | Automação de Tarefas | Agentes IA & Bots 🤖 | Explorando o poder do código | São Paulo - Brazil 🌎</h4>
+
 <hr>
 
 <h4> Studying at the moment </h4>
