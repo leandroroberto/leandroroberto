@@ -26,19 +26,19 @@ Meu objetivo é atuar remotamente na área de tecnologia, criando soluções út
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-
+  &nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium" />
-
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-
+  &nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" />
-
+  &nbsp;
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40" height="40" alt="Jupyter" />
-
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
 </p>
 
